@@ -20,7 +20,7 @@ export default async function MasonryGrid({
   showAdminControls = false,
 }: MasonryGridProps) {
   
-  if (gridItems.length === 0) {
+  if (!gridItems || gridItems.length === 0) {
     return (
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 pb-12">
         <Card>

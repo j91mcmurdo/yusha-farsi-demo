@@ -61,7 +61,30 @@ Install the project dependencies using npm:
 npm install
 ```
 
-### 3. Set Up Environment Variables 🔑
+### 3. Configure Next.js for Images
+
+Because this application loads images directly from Firebase Storage, you need to tell Next.js that this domain is a trusted source.
+
+1.  Create a new file named `next.config.mjs` in the root of your project.
+2.  Copy and paste the following code into it:
+
+```javascript
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'firebasestorage.googleapis.com',
+      },
+    ],
+  },
+};
+
+export default nextConfig;
+```
+
+### 4. Set Up Environment Variables 🔑
 
 This is the most important step! You need to get API keys from Firebase, Google, and ElevenLabs.
 
@@ -120,7 +143,7 @@ Now, let's find the values for each of these variables.
 7.  Click the **"ID"** button next to the voice's name to copy the Voice ID.
 8.  Paste this ID as the `ELEVEN_LABS_VOICE_ID` value.
 
-### 4. Run the Development Server
+### 5. Run the Development Server
 
 Once your `.env.local` file is complete, you can start the application:
 
@@ -128,7 +151,12 @@ Once your `.env.local` file is complete, you can start the application:
 npm run dev
 ```
 
-The application should now be running at `http://localhost:9002`. Enjoy exploring your Farsi Journey! 🎉
+The application should now be running at `http://localhost:9002`.
+
+> **⚠️ Heads Up! Expect a Firestore Error on First Run!**
+> When you first load the app and try to filter content, you will almost certainly see an error in your console about a "failed precondition". **This is normal!** It just means you need to create a database index. See the "Firestore Indexing Errors" section below for the easy, one-click solution.
+
+Enjoy exploring your Farsi Journey! 🎉
 
 ---
 
