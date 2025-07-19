@@ -96,6 +96,12 @@ Now, let's find the values for each of these variables.
 6.  In the "Firebase SDK snippet" section, select **Config**.
 7.  You will see an object with all the necessary keys. Copy the values into your `.env.local` file.
 
+**Important Note:** After setting up your Firebase project, make sure you enable **Firestore** and **Firebase Storage**.
+
+*   Go to the "Build" section in your Firebase console.
+*   Click on "Firestore Database" and create a database. For initial setup and testing, you can start in **test mode**, which allows open access. **Do not use test mode for a production application.**
+*   Click on "Storage" and create a storage bucket. You can accept the default security rules for now.
+
 #### B. Finding your Google AI (Gemini) Key
 
 1.  Go to [Google AI Studio](https://aistudio.google.com/).
@@ -112,7 +118,7 @@ Now, let's find the values for each of these variables.
 5.  Find a voice you like, click the **"Add to VoiceLab"** button, and then **"Add Voice"**.
 6.  In your VoiceLab, find the voice you just added and click on its name.
 7.  Click the **"ID"** button next to the voice's name to copy the Voice ID.
-8.  Paste this ID as the `ELEVEN_LABS_VOICE_ID` value. **Note:** Upgrading to a paid plan is recommended, as the free tier may block requests from server environments.
+8.  Paste this ID as the `ELEVEN_LABS_VOICE_ID` value.
 
 ### 4. Run the Development Server
 
@@ -123,3 +129,29 @@ npm run dev
 ```
 
 The application should now be running at `http://localhost:9002`. Enjoy exploring your Farsi Journey! 🎉
+
+---
+
+## 🚧 Common Issues & Troubleshooting
+
+If you run into problems after setting up the project, check these common issues.
+
+### 1. Firestore Indexing Errors
+
+**Symptom:** When you first run the application and try to filter or sort content, you might see an error in your browser's developer console or in the terminal where `npm run dev` is running. The error message will mention a "failed precondition" and will include a long URL.
+
+**Solution:** This is expected. Firestore requires composite indexes for complex queries (like filtering by both category and tags).
+
+1.  **Copy the entire URL** from the error message. It will look something like `https://console.firebase.google.com/v1/r/project/...`.
+2.  **Paste the URL** into your web browser and hit Enter.
+3.  This will take you directly to the index creation screen in the Firebase console with all the required fields pre-filled.
+4.  Click **"Create Index"**. The index will take a few minutes to build. Once it's enabled, the feature will work correctly.
+
+### 2. ElevenLabs Audio Not Playing
+
+**Symptom:** When you click the audio playback button on a word or phrase, nothing happens, or you see a network error in the developer console related to an ElevenLabs API call.
+
+**Solution:** This often happens for users on the free tier of ElevenLabs. The free tier has strict usage policies and may block API requests originating from server environments (like a Next.js application).
+
+1.  **Check your ElevenLabs account status.**
+2.  If you are on the free tier, **upgrade to a paid plan** (e.g., the "Starter" plan). This almost always resolves the issue immediately.
