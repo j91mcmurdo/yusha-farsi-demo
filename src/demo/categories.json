@@ -1,0 +1,34 @@
+[
+    {
+      "_id": "1A6RC8aclrlUifpSOepj",
+      "name": "Preposition"
+    },
+    {
+      "_id": "BweEnVJavQXHsC6EpSol",
+      "name": "Conjunction"
+    },
+    {
+      "_id": "EskFdSa5c9cYRLNQBPed",
+      "name": "Verb"
+    },
+    {
+      "_id": "FwxXcmtm6Nn7A2qGYH0V",
+      "name": "Other"
+    },
+    {
+      "_id": "R6O7NqPiPrp4vzh1mafE",
+      "name": "Adverb"
+    },
+    {
+      "_id": "aXm8MBv3Qa0jHyA1yI2U",
+      "name": "Pronoun"
+    },
+    {
+      "_id": "kN7BNJciQZPjPykQOxLg",
+      "name": "Adjective"
+    },
+    {
+      "_id": "ll2zeQ74pftClXpB2IJz",
+      "name": "Noun"
+    }
+  ]

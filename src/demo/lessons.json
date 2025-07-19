@@ -1,0 +1,20 @@
+[
+    {
+      "_id": "8vUqFwhfJbISxBUVzW2p",
+      "name": "Lesson on 07/07/2025",
+      "date": {
+        "_seconds": 1751846400,
+        "_nanoseconds": 0
+      },
+      "notes": ""
+    },
+    {
+      "_id": "olQz7ZltPaekKGumehyx",
+      "name": "Lesson - 15/07/2025",
+      "notes": "",
+      "date": {
+        "_seconds": 1752537600,
+        "_nanoseconds": 0
+      }
+    }
+  ]

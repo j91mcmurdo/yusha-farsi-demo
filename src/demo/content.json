@@ -1,0 +1,1727 @@
+[
+    {
+      "_id": "3R5ANWRiKynjcKx5UnSB",
+      "category": "ll2zeQ74pftClXpB2IJz",
+      "lessonIds": [
+        "8vUqFwhfJbISxBUVzW2p"
+      ],
+      "english": "degree",
+      "createdAt": {
+        "_seconds": 1752878977,
+        "_nanoseconds": 345000000
+      },
+      "status": "published",
+      "finglish": "daraje",
+      "type": "word",
+      "notes": "To be used when talking about the temperature",
+      "farsi": "درجه",
+      "tags": [
+        "Ua26z96OKK95FU4Zbynn"
+      ]
+    },
+    {
+      "_id": "55rw6PAXVn7sqdoGVofm",
+      "farsi": "دل",
+      "notes": "bla bla bla",
+      "category": "FwxXcmtm6Nn7A2qGYH0V",
+      "createdAt": {
+        "_seconds": 1752838350,
+        "_nanoseconds": 545000000
+      },
+      "type": "word",
+      "finglish": "del",
+      "tags": [],
+      "lessonIds": [
+        "olQz7ZltPaekKGumehyx"
+      ],
+      "status": "draft",
+      "english": "heart"
+    },
+    {
+      "_id": "8fyoqN5IK1tz6FGAymbY",
+      "createdAt": {
+        "_seconds": 1752670450,
+        "_nanoseconds": 462000000
+      },
+      "tags": [],
+      "conjugations": [
+        {
+          "farsi": "من می خوام",
+          "stem": "khaa",
+          "english": "I want",
+          "person": 1,
+          "finglish": "man mikhaam",
+          "formal": false,
+          "plural": false,
+          "tense": "Present Simple"
+        },
+        {
+          "formal": false,
+          "person": 2,
+          "tense": "Present Simple",
+          "finglish": "to mikhaai",
+          "farsi": "تو می خوای",
+          "stem": "khaa",
+          "plural": false,
+          "english": "You want"
+        },
+        {
+          "plural": false,
+          "farsi": "او می خواد",
+          "english": "He/She/It wants",
+          "tense": "Present Simple",
+          "finglish": "u mikhaad",
+          "formal": false,
+          "stem": "khaa",
+          "person": 3
+        },
+        {
+          "farsi": "ما می خوایم",
+          "formal": false,
+          "english": "We want",
+          "stem": "khaa",
+          "person": 1,
+          "tense": "Present Simple",
+          "finglish": "maa mikhaaim",
+          "plural": true
+        },
+        {
+          "finglish": "shomaa mikhaain",
+          "plural": true,
+          "english": "You want",
+          "stem": "khaa",
+          "formal": true,
+          "person": 2,
+          "farsi": "شما می خواین",
+          "tense": "Present Simple"
+        },
+        {
+          "farsi": "اونا می خوان",
+          "plural": true,
+          "stem": "khaa",
+          "finglish": "una mikhaan",
+          "tense": "Present Simple",
+          "person": 3,
+          "english": "They want",
+          "formal": false
+        },
+        {
+          "person": 1,
+          "plural": false,
+          "farsi": "من خواستم",
+          "finglish": "man khaastam",
+          "formal": false,
+          "stem": "khaaast",
+          "english": "I wanted",
+          "tense": "Past Simple"
+        },
+        {
+          "plural": false,
+          "english": "You wanted",
+          "finglish": "to khaasti",
+          "farsi": "تو خواستی",
+          "formal": false,
+          "person": 2,
+          "tense": "Past Simple",
+          "stem": "khaaast"
+        },
+        {
+          "finglish": "u khaast",
+          "plural": false,
+          "stem": "khaaast",
+          "english": "He/She/It wanted",
+          "tense": "Past Simple",
+          "formal": false,
+          "person": 3,
+          "farsi": "او خواست"
+        },
+        {
+          "farsi": "ما خواستیم",
+          "formal": false,
+          "plural": true,
+          "english": "We wanted",
+          "person": 1,
+          "finglish": "maa khaastim",
+          "tense": "Past Simple",
+          "stem": "khaaast"
+        },
+        {
+          "tense": "Past Simple",
+          "stem": "khaaast",
+          "english": "You wanted",
+          "farsi": "شما خواستین",
+          "finglish": "shomaa khaastin",
+          "formal": true,
+          "plural": true,
+          "person": 2
+        },
+        {
+          "plural": true,
+          "farsi": "اونا خواستن",
+          "formal": false,
+          "tense": "Past Simple",
+          "english": "They wanted",
+          "stem": "khaaast",
+          "person": 3,
+          "finglish": "una khaastan"
+        },
+        {
+          "tense": "Present Continuous",
+          "farsi": "من دارم می خوام",
+          "english": "I am wanting",
+          "formal": false,
+          "plural": false,
+          "stem": "khaa",
+          "finglish": "man daaram mikhaam",
+          "person": 1
+        },
+        {
+          "plural": false,
+          "stem": "khaa",
+          "farsi": "تو داری می خوای",
+          "finglish": "to daari mikhaai",
+          "english": "You are wanting",
+          "formal": false,
+          "tense": "Present Continuous",
+          "person": 2
+        },
+        {
+          "tense": "Present Continuous",
+          "english": "He/She/It is wanting",
+          "farsi": "او داره می خواد",
+          "person": 3,
+          "plural": false,
+          "finglish": "u daare mikhaad",
+          "stem": "khaa",
+          "formal": false
+        },
+        {
+          "tense": "Present Continuous",
+          "plural": true,
+          "stem": "khaa",
+          "english": "We are wanting",
+          "person": 1,
+          "formal": false,
+          "finglish": "maa daarim mikhaaim",
+          "farsi": "ما داریم می خوایم"
+        },
+        {
+          "person": 2,
+          "stem": "khaa",
+          "finglish": "shomaa daarin mikhaain",
+          "formal": true,
+          "english": "You are wanting",
+          "plural": true,
+          "farsi": "شما دارین می خواین",
+          "tense": "Present Continuous"
+        },
+        {
+          "plural": true,
+          "tense": "Present Continuous",
+          "farsi": "اونا دارن می خوان",
+          "person": 3,
+          "finglish": "una daaran mikhaan",
+          "english": "They are wanting",
+          "formal": false,
+          "stem": "khaa"
+        },
+        {
+          "english": "I will want",
+          "person": 1,
+          "tense": "Future",
+          "formal": false,
+          "stem": "khaa",
+          "finglish": "man mikhaam bekhaam",
+          "farsi": "من می خوام بخوام",
+          "plural": false
+        },
+        {
+          "person": 2,
+          "english": "You will want",
+          "formal": false,
+          "farsi": "تو می خوای بخوای",
+          "tense": "Future",
+          "plural": false,
+          "finglish": "to mikhaai bekhaai",
+          "stem": "khaa"
+        },
+        {
+          "formal": false,
+          "stem": "khaa",
+          "tense": "Future",
+          "farsi": "او می خواد بخواد",
+          "english": "He/She/It will want",
+          "person": 3,
+          "finglish": "u mikhaad bekhaad",
+          "plural": false
+        },
+        {
+          "english": "We will want",
+          "formal": false,
+          "tense": "Future",
+          "farsi": "ما می خوایم بخوایم",
+          "stem": "khaa",
+          "finglish": "maa mikhaaim bekhaaim",
+          "plural": true,
+          "person": 1
+        },
+        {
+          "plural": true,
+          "farsi": "شما می خواین بخواین",
+          "tense": "Future",
+          "finglish": "shomaa mikhaain bekhaain",
+          "english": "You will want",
+          "person": 2,
+          "stem": "khaa",
+          "formal": true
+        },
+        {
+          "finglish": "una mikhaan bekhaan",
+          "tense": "Future",
+          "english": "They will want",
+          "plural": true,
+          "stem": "khaa",
+          "formal": false,
+          "farsi": "اونا می خوان بخوان",
+          "person": 3
+        },
+        {
+          "finglish": "man bekhaam",
+          "english": "I may want",
+          "plural": false,
+          "farsi": "من بخوام",
+          "formal": false,
+          "stem": "khaa",
+          "person": 1,
+          "tense": "Present Subjunctive"
+        },
+        {
+          "plural": false,
+          "person": 2,
+          "tense": "Present Subjunctive",
+          "formal": false,
+          "english": "You may want",
+          "finglish": "to bekhaai",
+          "stem": "khaa",
+          "farsi": "تو بخوای"
+        },
+        {
+          "english": "He/She/It may want",
+          "tense": "Present Subjunctive",
+          "formal": false,
+          "finglish": "u bekhaad",
+          "farsi": "او بخواد",
+          "person": 3,
+          "plural": false,
+          "stem": "khaa"
+        },
+        {
+          "tense": "Present Subjunctive",
+          "english": "We may want",
+          "finglish": "maa bekhaaim",
+          "formal": false,
+          "farsi": "ما بخوایم",
+          "plural": true,
+          "person": 1,
+          "stem": "khaa"
+        },
+        {
+          "tense": "Present Subjunctive",
+          "stem": "khaa",
+          "finglish": "shomaa bekhaain",
+          "english": "You may want",
+          "farsi": "شما بخواین",
+          "person": 2,
+          "formal": true,
+          "plural": true
+        },
+        {
+          "finglish": "una bekhaan",
+          "person": 3,
+          "formal": false,
+          "tense": "Present Subjunctive",
+          "stem": "khaa",
+          "farsi": "اونا بخوان",
+          "plural": true,
+          "english": "They may want"
+        },
+        {
+          "stem": "khaa",
+          "plural": false,
+          "english": "Want!",
+          "tense": "Imperative",
+          "person": 0,
+          "farsi": "بخواه",
+          "formal": false,
+          "finglish": "bekhaah"
+        },
+        {
+          "person": 0,
+          "stem": "khaa",
+          "english": "Want! (plural)",
+          "plural": true,
+          "formal": true,
+          "tense": "Imperative",
+          "farsi": "بخواین",
+          "finglish": "bekhaain"
+        }
+      ],
+      "audioUrl": "https://firebasestorage.googleapis.com/v0/b/yusha-farsi.firebasestorage.app/o/audio%2F8fyoqN5IK1tz6FGAymbY.mp3?alt=media&token=ce22e018-9193-40f5-a814-ee233c316df3",
+      "farsi": "خواستن",
+      "category": "FwxXcmtm6Nn7A2qGYH0V",
+      "english": "to want",
+      "finglish": "Khaastan",
+      "status": "published",
+      "type": "verb"
+    },
+    {
+      "_id": "CFtZlSmEOra6yAVTHIH9",
+      "finglish": "sefarat",
+      "type": "word",
+      "english": "embassy",
+      "farsi": "سفارت",
+      "lessonIds": [
+        "olQz7ZltPaekKGumehyx"
+      ],
+      "tags": [
+        "aBKY2p05JyF4TI6UR8Ra"
+      ],
+      "notes": "",
+      "createdAt": {
+        "_seconds": 1752877279,
+        "_nanoseconds": 497000000
+      },
+      "status": "published",
+      "category": "ll2zeQ74pftClXpB2IJz"
+    },
+    {
+      "_id": "JMqeskBF2Y5Rf9hq4DVz",
+      "finglish": "most",
+      "notes": "",
+      "english": "drunk",
+      "farsi": "مست",
+      "type": "word",
+      "category": "kN7BNJciQZPjPykQOxLg",
+      "status": "published",
+      "createdAt": {
+        "_seconds": 1752877251,
+        "_nanoseconds": 994000000
+      },
+      "lessonIds": [
+        "olQz7ZltPaekKGumehyx"
+      ],
+      "tags": []
+    },
+    {
+      "_id": "Jeu3tLut5zAfqb8z33iM",
+      "type": "phrase",
+      "farsi": "دلم برات تنگ شده",
+      "createdAt": {
+        "_seconds": 1752874276,
+        "_nanoseconds": 293000000
+      },
+      "lessonIds": [],
+      "status": "published",
+      "conjugations": [],
+      "tags": [],
+      "category": "FwxXcmtm6Nn7A2qGYH0V",
+      "english": "I miss you",
+      "finglish": "delam baraat tang shode",
+      "notes": "Literally \"My heart became tight for you\""
+    },
+    {
+      "_id": "SrIc1BRa35H7LPKwgbYZ",
+      "lessonIds": [
+        "8vUqFwhfJbISxBUVzW2p"
+      ],
+      "farsi": "کشور",
+      "createdAt": {
+        "_seconds": 1752878837,
+        "_nanoseconds": 636000000
+      },
+      "category": "ll2zeQ74pftClXpB2IJz",
+      "finglish": "keshvar",
+      "type": "word",
+      "tags": [
+        "mzaxahHTHbKB2yLI9Z3H"
+      ],
+      "english": "country",
+      "notes": "",
+      "status": "published"
+    },
+    {
+      "_id": "Wyod0BJHfBrBUuJI2Chc",
+      "audioUrl": "https://firebasestorage.googleapis.com/v0/b/yusha-farsi.firebasestorage.app/o/audio%2FWyod0BJHfBrBUuJI2Chc.mp3?alt=media&token=0970b4d7-ddec-464c-878d-c02369e94311",
+      "farsi": "سلام جهان",
+      "finglish": "Salaam jehaan",
+      "createdAt": {
+        "_seconds": 1752669791,
+        "_nanoseconds": 355000000
+      },
+      "category": "FwxXcmtm6Nn7A2qGYH0V",
+      "status": "published",
+      "notes": "",
+      "tags": [],
+      "english": "Hello World",
+      "type": "word"
+    },
+    {
+      "_id": "X1TWMtIjPkmKFULKuptp",
+      "tags": [
+        "6dpoLLuYlQkFcRy2aJZE"
+      ],
+      "status": "published",
+      "type": "phrase",
+      "finglish": "sir shodam",
+      "farsi": "سیر شدم",
+      "english": "I'm full",
+      "notes": "This is used after eating, to indicate you are full and have eaten too much.",
+      "lessonIds": [],
+      "createdAt": {
+        "_seconds": 1752881003,
+        "_nanoseconds": 593000000
+      }
+    },
+    {
+      "_id": "cJBcn96botP8nNLftjb0",
+      "notes": "To say that something is over, we can use shodan - tamoom shod (تموم شد)\nFor eg, the film is over - این فیلمو تموم شد",
+      "category": "EskFdSa5c9cYRLNQBPed",
+      "english": "to finish",
+      "type": "verb",
+      "tags": [],
+      "conjugations": [
+        {
+          "plural": false,
+          "finglish": "man tamoom mikonam",
+          "person": 1,
+          "stem": "kon",
+          "formal": false,
+          "english": "I finish",
+          "tense": "Present Simple",
+          "farsi": "man tamoom mikonam"
+        },
+        {
+          "formal": false,
+          "person": 2,
+          "plural": false,
+          "tense": "Present Simple",
+          "farsi": "to tamoom mikoni",
+          "english": "You finish",
+          "stem": "kon",
+          "finglish": "to tamoom mikoni"
+        },
+        {
+          "stem": "kon",
+          "formal": false,
+          "farsi": "oon tamoom mikone",
+          "person": 3,
+          "english": "He/She/It finishes",
+          "finglish": "oon tamoom mikone",
+          "tense": "Present Simple",
+          "plural": false
+        },
+        {
+          "plural": true,
+          "farsi": "maa tamoom mikonim",
+          "tense": "Present Simple",
+          "english": "We finish",
+          "person": 1,
+          "stem": "kon",
+          "formal": false,
+          "finglish": "maa tamoom mikonim"
+        },
+        {
+          "english": "You (all) finish",
+          "plural": true,
+          "formal": false,
+          "farsi": "shomaa tamoom mikonin",
+          "person": 2,
+          "stem": "kon",
+          "finglish": "shomaa tamoom mikonin",
+          "tense": "Present Simple"
+        },
+        {
+          "formal": false,
+          "person": 3,
+          "plural": true,
+          "farsi": "oonaa tamoom mikonan",
+          "english": "They finish",
+          "tense": "Present Simple",
+          "finglish": "oonaa tamoom mikonan",
+          "stem": "kon"
+        },
+        {
+          "formal": false,
+          "finglish": "man tamoom kardam",
+          "tense": "Past Simple",
+          "stem": "kard",
+          "person": 1,
+          "english": "I finished",
+          "farsi": "man tamoom kardam",
+          "plural": false
+        },
+        {
+          "finglish": "to tamoom kardi",
+          "stem": "kard",
+          "formal": false,
+          "farsi": "to tamoom kardi",
+          "english": "You finished",
+          "person": 2,
+          "tense": "Past Simple",
+          "plural": false
+        },
+        {
+          "plural": false,
+          "tense": "Past Simple",
+          "english": "He/She/It finished",
+          "stem": "kard",
+          "farsi": "oon tamoom kard",
+          "formal": false,
+          "person": 3,
+          "finglish": "oon tamoom kard"
+        },
+        {
+          "stem": "kard",
+          "formal": false,
+          "person": 1,
+          "english": "We finished",
+          "plural": true,
+          "tense": "Past Simple",
+          "farsi": "maa tamoom kardim",
+          "finglish": "maa tamoom kardim"
+        },
+        {
+          "plural": true,
+          "finglish": "shomaa tamoom kardin",
+          "person": 2,
+          "stem": "kard",
+          "english": "You (all) finished",
+          "formal": false,
+          "tense": "Past Simple",
+          "farsi": "shomaa tamoom kardin"
+        },
+        {
+          "person": 3,
+          "finglish": "oonaa tamoom kardan",
+          "stem": "kard",
+          "farsi": "oonaa tamoom kardan",
+          "english": "They finished",
+          "formal": false,
+          "tense": "Past Simple",
+          "plural": true
+        },
+        {
+          "english": "I am finishing",
+          "tense": "Present Continuous",
+          "finglish": "man daram tamoom mikonam",
+          "farsi": "man daaram tamoom mikonam",
+          "formal": false,
+          "person": 1,
+          "plural": false,
+          "stem": "kon"
+        },
+        {
+          "plural": false,
+          "finglish": "to dari tamoom mikoni",
+          "farsi": "to daari tamoom mikoni",
+          "stem": "kon",
+          "english": "You are finishing",
+          "person": 2,
+          "tense": "Present Continuous",
+          "formal": false
+        },
+        {
+          "finglish": "oon dare tamoom mikone",
+          "english": "He/She/It is finishing",
+          "plural": false,
+          "person": 3,
+          "tense": "Present Continuous",
+          "formal": false,
+          "farsi": "oon daare tamoom mikone",
+          "stem": "kon"
+        },
+        {
+          "finglish": "maa darim tamoom mikonim",
+          "stem": "kon",
+          "plural": true,
+          "formal": false,
+          "person": 1,
+          "english": "We are finishing",
+          "tense": "Present Continuous",
+          "farsi": "maa daarim tamoom mikonim"
+        },
+        {
+          "farsi": "shomaa daarin tamoom mikonin",
+          "tense": "Present Continuous",
+          "finglish": "shomaa darin tamoom mikonin",
+          "person": 2,
+          "plural": true,
+          "english": "You (all) are finishing",
+          "formal": false,
+          "stem": "kon"
+        },
+        {
+          "finglish": "oonaa daran tamoom mikonan",
+          "plural": true,
+          "formal": false,
+          "stem": "kon",
+          "person": 3,
+          "tense": "Present Continuous",
+          "farsi": "oonaa daaran tamoom mikonan",
+          "english": "They are finishing"
+        },
+        {
+          "english": "I will finish",
+          "person": 1,
+          "stem": "kon",
+          "plural": false,
+          "finglish": "man tamoom mikonam",
+          "farsi": "man tamoom mikonam",
+          "tense": "Future",
+          "formal": false
+        },
+        {
+          "person": 2,
+          "tense": "Future",
+          "formal": false,
+          "finglish": "to tamoom mikoni",
+          "stem": "kon",
+          "farsi": "to tamoom mikoni",
+          "plural": false,
+          "english": "You will finish"
+        },
+        {
+          "finglish": "oon tamoom mikone",
+          "person": 3,
+          "plural": false,
+          "stem": "kon",
+          "formal": false,
+          "english": "He/She/It will finish",
+          "farsi": "oon tamoom mikone",
+          "tense": "Future"
+        },
+        {
+          "finglish": "maa tamoom mikonim",
+          "plural": true,
+          "farsi": "maa tamoom mikonim",
+          "formal": false,
+          "person": 1,
+          "stem": "kon",
+          "english": "We will finish",
+          "tense": "Future"
+        },
+        {
+          "formal": false,
+          "finglish": "shomaa tamoom mikonin",
+          "stem": "kon",
+          "plural": true,
+          "tense": "Future",
+          "english": "You (all) will finish",
+          "person": 2,
+          "farsi": "shomaa tamoom mikonin"
+        },
+        {
+          "finglish": "oonaa tamoom mikonan",
+          "formal": false,
+          "farsi": "oonaa tamoom mikonan",
+          "english": "They will finish",
+          "plural": true,
+          "stem": "kon",
+          "tense": "Future",
+          "person": 3
+        },
+        {
+          "tense": "Present Subjunctive",
+          "farsi": "man tamoom konam",
+          "stem": "kon",
+          "plural": false,
+          "english": "I finish (subjunctive)",
+          "person": 1,
+          "finglish": "man tamoom konam",
+          "formal": false
+        },
+        {
+          "farsi": "to tamoom koni",
+          "stem": "kon",
+          "formal": false,
+          "finglish": "to tamoom koni",
+          "tense": "Present Subjunctive",
+          "plural": false,
+          "english": "You finish (subjunctive)",
+          "person": 2
+        },
+        {
+          "person": 3,
+          "plural": false,
+          "formal": false,
+          "english": "He/She/It finish(es) (subjunctive)",
+          "tense": "Present Subjunctive",
+          "finglish": "oon tamoom kone",
+          "farsi": "oon tamoom kone",
+          "stem": "kon"
+        },
+        {
+          "stem": "kon",
+          "english": "We finish (subjunctive)",
+          "finglish": "maa tamoom konim",
+          "person": 1,
+          "farsi": "maa tamoom konim",
+          "plural": true,
+          "tense": "Present Subjunctive",
+          "formal": false
+        },
+        {
+          "plural": true,
+          "person": 2,
+          "farsi": "shomaa tamoom konin",
+          "formal": false,
+          "tense": "Present Subjunctive",
+          "finglish": "shomaa tamoom konin",
+          "english": "You (all) finish (subjunctive)",
+          "stem": "kon"
+        },
+        {
+          "finglish": "oonaa tamoom konan",
+          "person": 3,
+          "tense": "Present Subjunctive",
+          "formal": false,
+          "english": "They finish (subjunctive)",
+          "plural": true,
+          "stem": "kon",
+          "farsi": "oonaa tamoom konan"
+        },
+        {
+          "plural": false,
+          "stem": "kon",
+          "finglish": "tamoom kon!",
+          "person": 0,
+          "farsi": "tamoom kon!",
+          "english": "Finish! (singular)",
+          "tense": "Imperative",
+          "formal": false
+        },
+        {
+          "farsi": "tamoom konin!",
+          "person": 0,
+          "finglish": "tamoom konin!",
+          "stem": "kon",
+          "plural": true,
+          "tense": "Imperative",
+          "formal": false,
+          "english": "Finish! (plural)"
+        }
+      ],
+      "status": "published",
+      "lessonIds": [
+        "olQz7ZltPaekKGumehyx"
+      ],
+      "farsi": "تمام کردن",
+      "audioUrl": "https://firebasestorage.googleapis.com/v0/b/yusha-farsi.firebasestorage.app/o/audio%2FcJBcn96botP8nNLftjb0.mp3?alt=media&token=ff40bbd3-aac8-47be-bc9c-439b2ae687e4",
+      "finglish": "tamoom kardan",
+      "createdAt": {
+        "_seconds": 1752866005,
+        "_nanoseconds": 690000000
+      }
+    },
+    {
+      "_id": "dukRXfbC2L4qhitRMTN1",
+      "status": "published",
+      "createdAt": {
+        "_seconds": 1752876447,
+        "_nanoseconds": 92000000
+      },
+      "tags": [
+        "T873ehaYg4CdiQy3cV9E",
+        "Q9amXKXsQRj3UmWt0etP"
+      ],
+      "content": "Haft-sin (هفت‌سین) is the table arrangement at Nowruz featuring 7 items, each starting with the letter س.\n\nThey are:\nSabzeh (سبزه) – wheat, barley, mung bean, or lentil sprouts grown in a dish.\nSamanu (سمنو) – wheat germ sweet pudding.\nSenjed (سنجد) – oleaster.\nSerkeh (سرکه) – vinegar.\nSeeb (سیب) – apple.\nSeer (سیر) – garlic.\nSomagh (سماق) – sumac.",
+      "type": "cultural_note",
+      "title": "Haft-sin",
+      "lessonIds": []
+    },
+    {
+      "_id": "frCYV4QHjyWO0pa3z6dy",
+      "finglish": "maruf",
+      "createdAt": {
+        "_seconds": 1752878906,
+        "_nanoseconds": 713000000
+      },
+      "type": "word",
+      "lessonIds": [
+        "8vUqFwhfJbISxBUVzW2p"
+      ],
+      "tags": [],
+      "farsi": "معروف",
+      "category": "kN7BNJciQZPjPykQOxLg",
+      "english": "famous",
+      "status": "published",
+      "notes": ""
+    },
+    {
+      "_id": "grPZXnCqHG5U5nePqdPX",
+      "english": "watermelon",
+      "tags": [
+        "Kdj59EehYFC51oWA9zuq",
+        "goDYrEQ7vIetFd4qoIUK"
+      ],
+      "farsi": "هندوانه",
+      "lessonIds": [
+        "8vUqFwhfJbISxBUVzW2p"
+      ],
+      "type": "word",
+      "createdAt": {
+        "_seconds": 1752879016,
+        "_nanoseconds": 103000000
+      },
+      "notes": "",
+      "status": "published",
+      "finglish": "hendoone",
+      "category": "ll2zeQ74pftClXpB2IJz"
+    },
+    {
+      "_id": "h9XOZzIhZ9fkGOkJLEmp",
+      "finglish": "aab daadan",
+      "notes": "As in, to water plants",
+      "lessonIds": [
+        "8vUqFwhfJbISxBUVzW2p"
+      ],
+      "tags": [],
+      "category": "EskFdSa5c9cYRLNQBPed",
+      "type": "verb",
+      "farsi": "آب دادن",
+      "status": "published",
+      "english": "to water",
+      "conjugations": [
+        {
+          "english": "I water",
+          "formal": false,
+          "farsi": "من آب میدم",
+          "tense": "Present Simple",
+          "stem": "deh",
+          "person": 1,
+          "plural": false,
+          "finglish": "man aab midam"
+        },
+        {
+          "english": "You water",
+          "tense": "Present Simple",
+          "formal": false,
+          "person": 2,
+          "finglish": "to aab midi",
+          "stem": "deh",
+          "plural": false,
+          "farsi": "تو آب میدی"
+        },
+        {
+          "plural": false,
+          "person": 3,
+          "tense": "Present Simple",
+          "finglish": "oo aab mide",
+          "formal": false,
+          "stem": "deh",
+          "farsi": "او آب میده",
+          "english": "He/She/It waters"
+        },
+        {
+          "stem": "deh",
+          "farsi": "ما آب میدیم",
+          "tense": "Present Simple",
+          "person": 1,
+          "plural": true,
+          "finglish": "maa aab midim",
+          "formal": false,
+          "english": "We water"
+        },
+        {
+          "farsi": "شما آب میدین",
+          "tense": "Present Simple",
+          "person": 2,
+          "stem": "deh",
+          "finglish": "shomaa aab midin",
+          "plural": true,
+          "english": "You (plural) water",
+          "formal": true
+        },
+        {
+          "stem": "deh",
+          "english": "They water",
+          "plural": true,
+          "tense": "Present Simple",
+          "farsi": "اونا آب میدن",
+          "formal": false,
+          "finglish": "oona aab midan",
+          "person": 3
+        },
+        {
+          "english": "I watered",
+          "finglish": "man aab daadam",
+          "plural": false,
+          "farsi": "من آب دادم",
+          "tense": "Past Simple",
+          "person": 1,
+          "formal": false,
+          "stem": "daad"
+        },
+        {
+          "finglish": "to aab daadi",
+          "plural": false,
+          "person": 2,
+          "farsi": "تو آب دادی",
+          "english": "You watered",
+          "stem": "daad",
+          "tense": "Past Simple",
+          "formal": false
+        },
+        {
+          "finglish": "oo aab daad",
+          "plural": false,
+          "person": 3,
+          "tense": "Past Simple",
+          "stem": "daad",
+          "farsi": "او آب داد",
+          "formal": false,
+          "english": "He/She/It watered"
+        },
+        {
+          "finglish": "maa aab daadim",
+          "english": "We watered",
+          "farsi": "ما آب دادیم",
+          "formal": false,
+          "plural": true,
+          "tense": "Past Simple",
+          "person": 1,
+          "stem": "daad"
+        },
+        {
+          "finglish": "shomaa aab daadin",
+          "formal": true,
+          "tense": "Past Simple",
+          "farsi": "شما آب دادین",
+          "stem": "daad",
+          "english": "You (plural) watered",
+          "person": 2,
+          "plural": true
+        },
+        {
+          "english": "They watered",
+          "tense": "Past Simple",
+          "stem": "daad",
+          "formal": false,
+          "finglish": "oona aab daadan",
+          "farsi": "اونا آب دادن",
+          "plural": true,
+          "person": 3
+        },
+        {
+          "english": "I am watering",
+          "finglish": "man daaram aab midam",
+          "formal": false,
+          "plural": false,
+          "person": 1,
+          "stem": "deh",
+          "tense": "Present Continuous",
+          "farsi": "من دارم آب میدم"
+        },
+        {
+          "finglish": "to daari aab midi",
+          "formal": false,
+          "stem": "deh",
+          "plural": false,
+          "tense": "Present Continuous",
+          "farsi": "تو داری آب میدی",
+          "english": "You are watering",
+          "person": 2
+        },
+        {
+          "person": 3,
+          "finglish": "oo daare aab mide",
+          "plural": false,
+          "english": "He/She/It is watering",
+          "farsi": "او داره آب میده",
+          "formal": false,
+          "stem": "deh",
+          "tense": "Present Continuous"
+        },
+        {
+          "english": "We are watering",
+          "finglish": "maa daarim aab midim",
+          "person": 1,
+          "formal": false,
+          "stem": "deh",
+          "farsi": "ما داریم آب میدیم",
+          "tense": "Present Continuous",
+          "plural": true
+        },
+        {
+          "stem": "deh",
+          "finglish": "shomaa daarin aab midin",
+          "english": "You (plural) are watering",
+          "tense": "Present Continuous",
+          "plural": true,
+          "formal": true,
+          "farsi": "شما دارین آب میدین",
+          "person": 2
+        },
+        {
+          "english": "They are watering",
+          "formal": false,
+          "finglish": "oona daaran aab midan",
+          "tense": "Present Continuous",
+          "farsi": "اونا دارن آب میدن",
+          "person": 3,
+          "plural": true,
+          "stem": "deh"
+        },
+        {
+          "tense": "Future",
+          "english": "I will water",
+          "formal": false,
+          "farsi": "من آب میدم",
+          "stem": "deh",
+          "plural": false,
+          "person": 1,
+          "finglish": "man aab midam"
+        },
+        {
+          "finglish": "to aab midi",
+          "formal": false,
+          "tense": "Future",
+          "person": 2,
+          "stem": "deh",
+          "plural": false,
+          "english": "You will water",
+          "farsi": "تو آب میدی"
+        },
+        {
+          "stem": "deh",
+          "english": "He/She/It will water",
+          "person": 3,
+          "plural": false,
+          "tense": "Future",
+          "farsi": "او آب میده",
+          "formal": false,
+          "finglish": "oo aab mide"
+        },
+        {
+          "tense": "Future",
+          "finglish": "maa aab midim",
+          "stem": "deh",
+          "formal": false,
+          "english": "We will water",
+          "farsi": "ما آب میدیم",
+          "person": 1,
+          "plural": true
+        },
+        {
+          "tense": "Future",
+          "formal": true,
+          "plural": true,
+          "finglish": "shomaa aab midin",
+          "stem": "deh",
+          "english": "You (plural) will water",
+          "farsi": "شما آب میدین",
+          "person": 2
+        },
+        {
+          "tense": "Future",
+          "stem": "deh",
+          "formal": false,
+          "finglish": "oona aab midan",
+          "farsi": "اونا آب میدن",
+          "plural": true,
+          "english": "They will water",
+          "person": 3
+        },
+        {
+          "english": "I water (subjunctive)",
+          "finglish": "man aab bedam",
+          "tense": "Present Subjunctive",
+          "person": 1,
+          "formal": false,
+          "stem": "deh",
+          "plural": false,
+          "farsi": "من آب بدم"
+        },
+        {
+          "stem": "deh",
+          "farsi": "تو آب بدی",
+          "person": 2,
+          "formal": false,
+          "english": "You water (subjunctive)",
+          "plural": false,
+          "tense": "Present Subjunctive",
+          "finglish": "to aab bedi"
+        },
+        {
+          "finglish": "oo aab bede",
+          "farsi": "او آب بده",
+          "person": 3,
+          "english": "He/She/It water (subjunctive)",
+          "formal": false,
+          "tense": "Present Subjunctive",
+          "plural": false,
+          "stem": "deh"
+        },
+        {
+          "plural": true,
+          "formal": false,
+          "finglish": "maa aab bedim",
+          "tense": "Present Subjunctive",
+          "farsi": "ما آب بدیم",
+          "english": "We water (subjunctive)",
+          "person": 1,
+          "stem": "deh"
+        },
+        {
+          "formal": true,
+          "stem": "deh",
+          "finglish": "shomaa aab bedin",
+          "tense": "Present Subjunctive",
+          "person": 2,
+          "english": "You (plural) water (subjunctive)",
+          "plural": true,
+          "farsi": "شما آب بدین"
+        },
+        {
+          "tense": "Present Subjunctive",
+          "finglish": "oona aab badan",
+          "farsi": "اونا آب بدن",
+          "person": 3,
+          "english": "They water (subjunctive)",
+          "stem": "deh",
+          "formal": false,
+          "plural": true
+        },
+        {
+          "english": "Water! (singular)",
+          "tense": "Imperative",
+          "stem": "deh",
+          "farsi": "آب بده",
+          "formal": false,
+          "person": 0,
+          "finglish": "aab bede",
+          "plural": false
+        },
+        {
+          "farsi": "آب بدین",
+          "formal": false,
+          "tense": "Imperative",
+          "person": 0,
+          "finglish": "aab bedin",
+          "plural": true,
+          "stem": "deh",
+          "english": "Water! (plural)"
+        }
+      ],
+      "createdAt": {
+        "_seconds": 1752878883,
+        "_nanoseconds": 397000000
+      }
+    },
+    {
+      "_id": "icELy3WQNMhdXqsIsBH7",
+      "category": "ll2zeQ74pftClXpB2IJz",
+      "english": "island",
+      "farsi": "جزیره",
+      "type": "word",
+      "notes": "",
+      "finglish": "jaziye",
+      "status": "published",
+      "createdAt": {
+        "_seconds": 1752878711,
+        "_nanoseconds": 278000000
+      },
+      "tags": [
+        "mzaxahHTHbKB2yLI9Z3H",
+        "aBKY2p05JyF4TI6UR8Ra"
+      ],
+      "lessonIds": [
+        "8vUqFwhfJbISxBUVzW2p"
+      ]
+    },
+    {
+      "_id": "l70ImhHlfX8BLyZHrupw",
+      "notes": "",
+      "lessonIds": [
+        "olQz7ZltPaekKGumehyx"
+      ],
+      "status": "published",
+      "finglish": "khonak",
+      "audioUrl": "https://firebasestorage.googleapis.com/v0/b/yusha-farsi.firebasestorage.app/o/audio%2Fl70ImhHlfX8BLyZHrupw.mp3?alt=media&token=b7ffa747-512f-4979-895e-06ac007da5eb",
+      "category": "kN7BNJciQZPjPykQOxLg",
+      "createdAt": {
+        "_seconds": 1752837097,
+        "_nanoseconds": 322000000
+      },
+      "english": "cool",
+      "farsi": "خنک",
+      "type": "word",
+      "tags": [
+        "Ua26z96OKK95FU4Zbynn"
+      ]
+    },
+    {
+      "_id": "pTsZ9z5MCE2y1N92ZrY4",
+      "finglish": "tanhaa",
+      "createdAt": {
+        "_seconds": 1752878677,
+        "_nanoseconds": 899000000
+      },
+      "type": "word",
+      "tags": [],
+      "lessonIds": [
+        "8vUqFwhfJbISxBUVzW2p"
+      ],
+      "category": "kN7BNJciQZPjPykQOxLg",
+      "notes": "",
+      "english": "alone",
+      "status": "published",
+      "farsi": "تنها"
+    },
+    {
+      "_id": "pwFRbHNIw5mCgRaAkblk",
+      "content": "Em (ام) can prefix day, night, and year to mean 'this'\n\n- day is rooz (روز) but today is emrooz (امروز)\n- night is shab (شب) but tonight is emshab (امشب)\n- year is saaal (سال) but this year is emsaal (امسال)\n\nThis handy prefix doesn't apply to any other units of time.",
+      "type": "cultural_note",
+      "tags": [
+        "v1uVVqOaGTk5OxnxbNsT"
+      ],
+      "status": "published",
+      "createdAt": {
+        "_seconds": 1752877518,
+        "_nanoseconds": 224000000
+      },
+      "lessonIds": [
+        "olQz7ZltPaekKGumehyx"
+      ],
+      "title": "em-"
+    },
+    {
+      "_id": "ru7XnCrOuMKtdlg9Zhsn",
+      "notes": "khubi literally means 'are you good?'",
+      "type": "dialogue",
+      "lessonIds": [],
+      "status": "published",
+      "title": "How're you?",
+      "tags": [
+        "fh0FLGVWHJIvSZ7tq8jG"
+      ],
+      "dialogue": [
+        {
+          "farsi": "خوبی؟",
+          "english": "How're you?",
+          "speaker": "",
+          "finglish": "khubi?"
+        },
+        {
+          "finglish": "khubam mersi, to khubi?",
+          "english": "I'm good, thanks, how're you?",
+          "speaker": "",
+          "farsi": "خوبم مرسی، تو خوبی؟"
+        }
+      ],
+      "createdAt": {
+        "_seconds": 1752876229,
+        "_nanoseconds": 474000000
+      }
+    },
+    {
+      "_id": "xp6xO3AD47fVBpF3bqHs",
+      "finglish": "entekhaab kardan",
+      "createdAt": {
+        "_seconds": 1752878786,
+        "_nanoseconds": 772000000
+      },
+      "tags": [],
+      "category": "EskFdSa5c9cYRLNQBPed",
+      "english": "to choose",
+      "conjugations": [
+        {
+          "person": 1,
+          "english": "I choose",
+          "tense": "Present Simple",
+          "farsi": "man entekhaab mikonam",
+          "formal": false,
+          "finglish": "man entekhaab mikonam",
+          "stem": "kon",
+          "plural": false
+        },
+        {
+          "formal": false,
+          "tense": "Present Simple",
+          "english": "You choose",
+          "stem": "kon",
+          "finglish": "to entekhaab mikoni",
+          "farsi": "to entekhaab mikoni",
+          "person": 2,
+          "plural": false
+        },
+        {
+          "plural": false,
+          "stem": "kon",
+          "farsi": "oon entekhaab mikone",
+          "tense": "Present Simple",
+          "person": 3,
+          "formal": false,
+          "finglish": "oon entekhaab mikone",
+          "english": "He/She/It chooses"
+        },
+        {
+          "plural": true,
+          "farsi": "maa entekhaab mikonim",
+          "person": 1,
+          "stem": "kon",
+          "tense": "Present Simple",
+          "english": "We choose",
+          "finglish": "maa entekhaab mikonim",
+          "formal": false
+        },
+        {
+          "stem": "kon",
+          "formal": false,
+          "person": 2,
+          "tense": "Present Simple",
+          "finglish": "shomaa entekhaab mikonin",
+          "english": "You choose",
+          "farsi": "shomaa entekhaab mikonin",
+          "plural": true
+        },
+        {
+          "formal": true,
+          "tense": "Present Simple",
+          "finglish": "shomaa entekhaab mikonid",
+          "stem": "kon",
+          "english": "You choose",
+          "person": 2,
+          "farsi": "shomaa entekhaab mikonid",
+          "plural": true
+        },
+        {
+          "tense": "Present Simple",
+          "plural": true,
+          "farsi": "oonaa entekhaab mikonan",
+          "person": 3,
+          "stem": "kon",
+          "english": "They choose",
+          "finglish": "oonaa entekhaab mikonan",
+          "formal": false
+        },
+        {
+          "finglish": "man entekhaab kardam",
+          "plural": false,
+          "english": "I chose",
+          "farsi": "man entekhaab kardam",
+          "person": 1,
+          "formal": false,
+          "tense": "Past Simple",
+          "stem": "kard"
+        },
+        {
+          "tense": "Past Simple",
+          "plural": false,
+          "formal": false,
+          "stem": "kard",
+          "farsi": "to entekhaab kardi",
+          "person": 2,
+          "finglish": "to entekhaab kardi",
+          "english": "You chose"
+        },
+        {
+          "finglish": "oon entekhaab kard",
+          "farsi": "oon entekhaab kard",
+          "stem": "kard",
+          "plural": false,
+          "english": "He/She/It chose",
+          "person": 3,
+          "tense": "Past Simple",
+          "formal": false
+        },
+        {
+          "english": "We chose",
+          "person": 1,
+          "finglish": "maa entekhaab kardim",
+          "plural": true,
+          "farsi": "maa entekhaab kardim",
+          "formal": false,
+          "tense": "Past Simple",
+          "stem": "kard"
+        },
+        {
+          "stem": "kard",
+          "finglish": "shomaa entekhaab kardin",
+          "farsi": "shomaa entekhaab kardin",
+          "person": 2,
+          "english": "You chose",
+          "plural": true,
+          "formal": false,
+          "tense": "Past Simple"
+        },
+        {
+          "finglish": "shomaa entekhaab kardid",
+          "person": 2,
+          "stem": "kard",
+          "plural": true,
+          "farsi": "shomaa entekhaab kardid",
+          "tense": "Past Simple",
+          "english": "You chose",
+          "formal": true
+        },
+        {
+          "formal": false,
+          "person": 3,
+          "finglish": "oonaa entekhaab kardan",
+          "tense": "Past Simple",
+          "farsi": "oonaa entekhaab kardan",
+          "plural": true,
+          "english": "They chose",
+          "stem": "kard"
+        },
+        {
+          "person": 1,
+          "tense": "Present Continuous",
+          "formal": false,
+          "finglish": "man daaram entekhaab mikonam",
+          "stem": "kon",
+          "farsi": "man daaram entekhaab mikonam",
+          "english": "I am choosing",
+          "plural": false
+        },
+        {
+          "person": 2,
+          "english": "You are choosing",
+          "plural": false,
+          "stem": "kon",
+          "finglish": "to daari entekhaab mikoni",
+          "farsi": "to daari entekhaab mikoni",
+          "tense": "Present Continuous",
+          "formal": false
+        },
+        {
+          "stem": "kon",
+          "plural": false,
+          "formal": false,
+          "person": 3,
+          "finglish": "oon daare entekhaab mikone",
+          "farsi": "oon daare entekhaab mikone",
+          "english": "He/She/It is choosing",
+          "tense": "Present Continuous"
+        },
+        {
+          "farsi": "maa daarim entekhaab mikonim",
+          "plural": true,
+          "finglish": "maa daarim entekhaab mikonim",
+          "tense": "Present Continuous",
+          "person": 1,
+          "stem": "kon",
+          "formal": false,
+          "english": "We are choosing"
+        },
+        {
+          "finglish": "shomaa daarin entekhaab mikonin",
+          "english": "You are choosing",
+          "farsi": "shomaa daarin entekhaab mikonin",
+          "formal": false,
+          "stem": "kon",
+          "person": 2,
+          "plural": true,
+          "tense": "Present Continuous"
+        },
+        {
+          "stem": "kon",
+          "farsi": "shomaa daarid entekhaab mikonid",
+          "finglish": "shomaa daarid entekhaab mikonid",
+          "formal": true,
+          "plural": true,
+          "person": 2,
+          "tense": "Present Continuous",
+          "english": "You are choosing"
+        },
+        {
+          "finglish": "oonaa daaran entekhaab mikonan",
+          "formal": false,
+          "english": "They are choosing",
+          "stem": "kon",
+          "plural": true,
+          "tense": "Present Continuous",
+          "person": 3,
+          "farsi": "oonaa daaran entekhaab mikonan"
+        },
+        {
+          "farsi": "man mikhaam entekhaab konam",
+          "tense": "Future",
+          "english": "I will choose",
+          "finglish": "man mikhaam entekhaab konam",
+          "formal": false,
+          "person": 1,
+          "stem": "kon",
+          "plural": false
+        },
+        {
+          "tense": "Future",
+          "plural": false,
+          "person": 2,
+          "stem": "kon",
+          "finglish": "to mikhaai entekhaab koni",
+          "farsi": "to mikhaai entekhaab koni",
+          "english": "You will choose",
+          "formal": false
+        },
+        {
+          "plural": false,
+          "finglish": "oon mikhaad entekhaab kone",
+          "formal": false,
+          "farsi": "oon mikhaad entekhaab kone",
+          "person": 3,
+          "tense": "Future",
+          "stem": "kon",
+          "english": "He/She/It will choose"
+        },
+        {
+          "farsi": "maa mikhaim entekhaab konim",
+          "plural": true,
+          "stem": "kon",
+          "formal": false,
+          "finglish": "maa mikhaim entekhaab konim",
+          "tense": "Future",
+          "person": 1,
+          "english": "We will choose"
+        },
+        {
+          "formal": false,
+          "english": "You will choose",
+          "plural": true,
+          "stem": "kon",
+          "farsi": "shomaa mikhaain entekhaab konin",
+          "person": 2,
+          "finglish": "shomaa mikhaain entekhaab konin",
+          "tense": "Future"
+        },
+        {
+          "person": 2,
+          "plural": true,
+          "tense": "Future",
+          "farsi": "shomaa mikhaid entekhaab konid",
+          "english": "You will choose",
+          "finglish": "shomaa mikhaid entekhaab konid",
+          "stem": "kon",
+          "formal": true
+        },
+        {
+          "stem": "kon",
+          "person": 3,
+          "finglish": "oonaa mikhaan entekhaab konan",
+          "plural": true,
+          "tense": "Future",
+          "formal": false,
+          "farsi": "oonaa mikhaan entekhaab konan",
+          "english": "They will choose"
+        },
+        {
+          "english": "I choose (subjunctive)",
+          "stem": "kon",
+          "tense": "Present Subjunctive",
+          "finglish": "man entekhaab konam",
+          "formal": false,
+          "person": 1,
+          "plural": false,
+          "farsi": "man entekhaab konam"
+        },
+        {
+          "tense": "Present Subjunctive",
+          "stem": "kon",
+          "formal": false,
+          "english": "You choose (subjunctive)",
+          "plural": false,
+          "finglish": "to entekhaab koni",
+          "farsi": "to entekhaab koni",
+          "person": 2
+        },
+        {
+          "person": 3,
+          "formal": false,
+          "tense": "Present Subjunctive",
+          "english": "He/She/It chooses (subjunctive)",
+          "finglish": "oon entekhaab kone",
+          "plural": false,
+          "farsi": "oon entekhaab kone",
+          "stem": "kon"
+        },
+        {
+          "stem": "kon",
+          "plural": true,
+          "farsi": "maa entekhaab konim",
+          "finglish": "maa entekhaab konim",
+          "tense": "Present Subjunctive",
+          "english": "We choose (subjunctive)",
+          "person": 1,
+          "formal": false
+        },
+        {
+          "formal": false,
+          "tense": "Present Subjunctive",
+          "english": "You choose (subjunctive)",
+          "finglish": "shomaa entekhaab konin",
+          "person": 2,
+          "stem": "kon",
+          "farsi": "shomaa entekhaab konin",
+          "plural": true
+        },
+        {
+          "english": "You choose (subjunctive)",
+          "formal": true,
+          "stem": "kon",
+          "farsi": "shomaa entekhaab konid",
+          "finglish": "shomaa entekhaab konid",
+          "tense": "Present Subjunctive",
+          "plural": true,
+          "person": 2
+        },
+        {
+          "farsi": "oonaa entekhaab konan",
+          "formal": false,
+          "stem": "kon",
+          "finglish": "oonaa entekhaab konan",
+          "english": "They choose (subjunctive)",
+          "plural": true,
+          "person": 3,
+          "tense": "Present Subjunctive"
+        },
+        {
+          "formal": false,
+          "tense": "Imperative",
+          "person": 0,
+          "plural": false,
+          "english": "Choose (singular)",
+          "stem": "kon",
+          "farsi": "entekhaab kon",
+          "finglish": "entekhaab kon"
+        },
+        {
+          "farsi": "entekhaab konin",
+          "finglish": "entekhaab konin",
+          "formal": false,
+          "tense": "Imperative",
+          "stem": "kon",
+          "english": "Choose (plural)",
+          "person": 0,
+          "plural": true
+        },
+        {
+          "farsi": "entekhaab konid",
+          "stem": "kon",
+          "english": "Choose (plural - formal)",
+          "formal": true,
+          "tense": "Imperative",
+          "plural": true,
+          "finglish": "entekhaab konid",
+          "person": 0
+        }
+      ],
+      "lessonIds": [
+        "8vUqFwhfJbISxBUVzW2p"
+      ],
+      "farsi": "انتخاب کردن",
+      "notes": "",
+      "type": "verb",
+      "status": "published"
+    }
+  ]
