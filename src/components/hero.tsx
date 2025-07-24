@@ -12,11 +12,11 @@ export default function Hero() {
             <Card className="overflow-hidden shadow-lg border-2 border-primary/20 bg-card/80 backdrop-blur-sm h-full">
               <CardContent className="p-0 h-full">
                 <Image
-                  src="https://firebasestorage.googleapis.com/v0/b/yusha-farsi.firebasestorage.app/o/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.png?alt=media&token=7f9b0bc1-dbc1-439d-bf7d-967df7c5072a"
+                  src="https://firebasestorage.googleapis.com/v0/b/yusha-farsi.firebasestorage.app/o/Learning.png?alt=media&token=a8fd3378-d1f6-4704-b0ae-caa1217568cc"
                   alt="Yusha studying Farsi at a desk"
                   width={800}
                   height={600}
-                  className="object-cover w-full h-full"
+                  className="object-contain w-full h-full"
                   data-ai-hint="man portrait"
                   priority
                 />
